@@ -1,5 +1,5 @@
 <template>
-  <h1>Hello vue js 3</h1>
+  <h1>Hello vue js  Version 3.0</h1>
 </template>
 
 <script>
